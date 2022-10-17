@@ -1,0 +1,15 @@
+99ae7962ebb04e30d26c10209bb44a56 *DESCRIPTION
+30f9889bd48f217a7945d45d0f03c4c9 *NAMESPACE
+5e1638d6dacf16da8c7a8013ec50139c *NEWS.md
+f44d90c400c6c36735aae32f85980f5f *R/fetch_pinterestads.R
+824ef08d9edc3eb4effc92e17e63bf73 *R/my_pinterestads_data.R
+ef5ffc88235757a2e596c5b39ff3154e *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+445c7058b6a08fd356303e7a9007577d *data/my_pinterestads_data.RData
+7abdb7ed69e7d0d3dd01593a5dea37f9 *inst/doc/tutorial.R
+2fd94211c92d191821ad10f515a34301 *inst/doc/tutorial.Rmd
+b82fee2d8afa22e88dbd20c911fc9498 *inst/doc/tutorial.html
+2a75f91b9b53a333f58e77d0a1f42330 *man/fetch_pinterestads.Rd
+96a4bbcb93031b926d06cdd8c86f928e *man/my_pinterestads_data.Rd
+445c7058b6a08fd356303e7a9007577d *vignettes/my_pinterestads_data.RData
+2fd94211c92d191821ad10f515a34301 *vignettes/tutorial.Rmd
